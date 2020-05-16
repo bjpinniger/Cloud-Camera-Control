@@ -1,0 +1,38 @@
+<Extensions>
+  <Version>1.7</Version>
+  <Panel>
+    <Order>3</Order>
+    <PanelId>FECC</PanelId>
+    <Origin>local</Origin>
+    <Type>InCall</Type>
+    <Icon>Camera</Icon>
+    <Name>Remote Camera</Name>
+    <ActivityType>Custom</ActivityType>
+    <Page>
+      <Name>Remote Camera Control</Name>
+      <Row>
+        <Name>Camera Control</Name>
+        <Widget>
+          <WidgetId>cameracontrol</WidgetId>
+          <Type>DirectionalPad</Type>
+          <Options>size=4</Options>
+        </Widget>
+      </Row>
+      <Row>
+        <Name>Zoom</Name>
+        <Widget>
+          <WidgetId>fecc_zoom</WidgetId>
+          <Type>Spinner</Type>
+          <Options>size=2;style=plusminus</Options>
+        </Widget>
+        <Widget>
+          <WidgetId>widget_2</WidgetId>
+          <Type>Spacer</Type>
+          <Options>size=1</Options>
+        </Widget>
+      </Row>
+      <PageId>cameracontrol</PageId>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
