@@ -14,15 +14,15 @@ FECC-2 - this is the original UI extension that provides the buttons to control 
 
 If there's more than 1 remote endpoint the user will now see a list of endpoints to choose from. Only 5 endpoints can be shown on a page, so to allow users to scroll through the entire list of endpoints there will be a "Next" option if there are more than 5 remote endpoints in the call.
 
-![Image of 1st Page](https://github.com/bjpinniger/Cloud-Camera-Control/images/1st-page.png)
+![Image of 1st Page](/images/1st-page.png?raw=true)
 
 On the 2nd and subsequent pages there will also be a "Back" option to return to the previous page.
 
-![Image of 2nd Page](https://github.com/bjpinniger/Cloud-Camera-Control/images/2nd-page.png)
+![Image of 2nd Page](/images/2nd-page.png?raw=true)
 
 After the user selects an endpoint to control the Remote Camera Control UI Extension will appear.
 
-![Image of FECC Page](https://github.com/bjpinniger/Cloud-Camera-Control/images/FECC-panel.png)
+![Image of FECC Page](/images/FECC-panel.png?raw=true)
 
 NOTE: If the BOT doesn't have access to the remote endpoint, or if the remote endpoint doesn't support PTZ camera control (e.g. a DX80) an alert will be shown to the user with an error message.
 
