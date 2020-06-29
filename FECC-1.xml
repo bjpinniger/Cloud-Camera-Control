@@ -1,0 +1,13 @@
+<Extensions>
+  <Version>1.7</Version>
+  <Panel>
+    <Order>1</Order>
+    <PanelId>FECC-1</PanelId>
+    <Origin>local</Origin>
+    <Type>InCall</Type>
+    <Icon>Camera</Icon>
+    <Color>#30D557</Color>
+    <Name>Remote Camera</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+</Extensions>

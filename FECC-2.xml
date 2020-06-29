@@ -1,12 +1,12 @@
 <Extensions>
   <Version>1.7</Version>
   <Panel>
-    <Order>3</Order>
-    <PanelId>FECC</PanelId>
+    <Order>2</Order>
+    <PanelId>FECC-2</PanelId>
     <Origin>local</Origin>
-    <Type>InCall</Type>
+    <Type>Never</Type>
     <Icon>Camera</Icon>
-    <Name>Remote Camera</Name>
+    <Name>FECC</Name>
     <ActivityType>Custom</ActivityType>
     <Page>
       <Name>Remote Camera Control</Name>
