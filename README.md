@@ -1,4 +1,7 @@
 # Cloud-Camera-Control
+![language:Python](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square)
+![license:MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
+
 This macro can be used to enable far end camera control for video endpoints registered to the Webex cloud.
 
 1) login to developer.webex.com and create a new BOT (call it whatever you want)
